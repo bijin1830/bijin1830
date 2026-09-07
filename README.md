@@ -22,7 +22,7 @@ My strongest experience is in **manual functional testing, regression testing, p
 - 🗄️ Database validation: **SQL Server, MySQL, PostgreSQL**
 - 🐞 Defect work: **Issue reproduction, log analysis, evidence collection, defect lifecycle, production troubleshooting**
 - ⚙️ Automation exposure: **Newman, Selenium basics, beginner Python scripting**
-- 🌍 Based in **UAE** and open to QA / Payments / POS opportunities across UAE & GCC
+- 🌍 Based in **UAE**, with hands-on experience supporting payment, POS and enterprise QA projects
 
 ---
 
