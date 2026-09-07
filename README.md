@@ -21,7 +21,6 @@ My strongest experience is in **manual functional testing, regression testing, p
 - 🔌 API & integration testing: **Postman, REST APIs, .NET, Java, Web Services**
 - 🗄️ Database validation: **SQL Server, MySQL, PostgreSQL**
 - 🐞 Defect work: **Issue reproduction, log analysis, evidence collection, defect lifecycle, production troubleshooting**
-- ⚙️ Automation exposure: **Newman, Selenium basics, beginner Python scripting**
 - 🌍 Based in **UAE**, with hands-on experience supporting payment, POS and enterprise QA projects
 
 ---
@@ -31,19 +30,17 @@ My strongest experience is in **manual functional testing, regression testing, p
 <p>
   <img src="https://img.shields.io/badge/Manual%20QA-Primary-0A66C2?style=flat-square" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Newman-API%20Runner-6B4FBB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Selenium-Basics-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </p>
 
 **Domain expertise:** `Manual Testing` · `ISO 8583` · `EMV` · `POS` · `ECR` · `TMS` · `Payments QA` · `API Testing` · `UAT` · `Production Support`
+
+**Basic exposure / currently learning:** `Newman` · `Selenium` · `Beginner Python scripting`
 
 ---
 
@@ -64,9 +61,6 @@ A personal portfolio showcasing my QA, payments, POS/ECR and software testing ex
 A **Postman + Newman** based API testing project with positive/negative scenarios, response validation, environment variables and GitHub Actions execution.
 
 [![API Tests](https://github.com/bijin1830/api-testing-framework/actions/workflows/api-tests.yml/badge.svg)](https://github.com/bijin1830/api-testing-framework/actions/workflows/api-tests.yml)
-
-#### 🔜 Selenium Starter Project
-Planned only as a simple learning project focused on basic UI automation that I can explain comfortably in interviews.
 
 ---
 
