@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bijin Benni 👋</h1>
-<h3 align="center">Software Test Engineer | Payments & POS Systems | API Testing</h3>
+<h3 align="center">Software Test Engineer | Manual QA | Payments & POS Systems | API Testing</h3>
 
 <p align="center">
   <a href="https://bijin1830.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-0A84FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
@@ -13,13 +13,14 @@
 
 I'm a **Software Test Engineer with 3+ years of experience** in QA, payment systems, POS terminals, ECR integrations and enterprise applications.
 
-My work focuses on validating payment flows end to end — from terminal and API layers through ISO 8583 messaging, EMV processing and database verification — with hands-on involvement in UAT and production support.
+My strongest experience is in **manual functional testing, regression testing, payment-flow validation, defect analysis, UAT and production support**. I work across terminal, API/integration, ISO 8583, EMV and database layers to understand where a payment issue actually occurs.
 
 - 💳 Payments testing: **ISO 8583, EMV, Contact, Contactless, NFC**
 - 🧾 Systems: **Traditional POS, Android POS, ECR, TMS**
+- 🧪 Manual QA: **Functional, Regression, Integration, SIT, UAT, Exploratory Testing**
 - 🔌 API & integration testing: **Postman, REST APIs, .NET, Java, Web Services**
-- 🧪 QA: **Functional, Regression, Integration, API, UAT, Exploratory Testing**
 - 🗄️ Database validation: **SQL Server, MySQL, PostgreSQL**
+- 🐞 Defect work: **Issue reproduction, log analysis, evidence collection, defect lifecycle, production troubleshooting**
 - ⚙️ Automation exposure: **Newman, Selenium basics, beginner Python scripting**
 - 🌍 Based in **UAE** and open to QA / Payments / POS opportunities across UAE & GCC
 
@@ -28,6 +29,7 @@ My work focuses on validating payment flows end to end — from terminal and API
 ### 🛠️ Tech & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Manual%20QA-Primary-0A66C2?style=flat-square" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Newman-API%20Runner-6B4FBB?style=flat-square" />
   <img src="https://img.shields.io/badge/Selenium-Basics-43B02A?style=flat-square&logo=selenium&logoColor=white" />
@@ -41,11 +43,14 @@ My work focuses on validating payment flows end to end — from terminal and API
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </p>
 
-**Domain expertise:** `ISO 8583` · `EMV` · `POS` · `ECR` · `TMS` · `Payments QA` · `API Testing` · `UAT` · `Production Support`
+**Domain expertise:** `Manual Testing` · `ISO 8583` · `EMV` · `POS` · `ECR` · `TMS` · `Payments QA` · `API Testing` · `UAT` · `Production Support`
 
 ---
 
 ### 🚀 Featured Work
+
+#### 💳 [Payment Testing Case Study](https://github.com/bijin1830/payment-testing-case-study)
+My main showcase project focused on **manual payment testing**: POS/ECR transaction scenarios, purchase/void/refund/reversal, fallback, settlement, ISO 8583 validation, EMV flow, defect examples and a UAT checklist. All examples are synthetic and non-confidential.
 
 #### 🌐 [Professional Portfolio](https://bijin1830.github.io)
 A personal portfolio showcasing my QA, payments, POS/ECR and software testing experience.
@@ -57,21 +62,18 @@ A **Postman + Newman** based API testing project with positive/negative scenario
 
 [![API Tests](https://github.com/bijin1830/api-testing-framework/actions/workflows/api-tests.yml/badge.svg)](https://github.com/bijin1830/api-testing-framework/actions/workflows/api-tests.yml)
 
-#### 🔜 Payment Testing Case Study
-Planned next: sanitized ISO 8583 / EMV / POS test scenarios based on domain knowledge, without any confidential employer or client data.
-
 #### 🔜 Selenium Starter Project
-Planned as a simple learning project focused on basic UI automation that I can explain comfortably in interviews.
+Planned only as a simple learning project focused on basic UI automation that I can explain comfortably in interviews.
 
 ---
 
 ### 🎯 What I Focus On
 
 ```text
-Test → Validate → Diagnose → Improve
+Test → Validate → Reproduce → Diagnose → Improve
 ```
 
-I enjoy reproducing complex issues, tracing failures across application / terminal / host layers and turning findings into clear, actionable defects.
+I enjoy reproducing complex issues, tracing failures across application / terminal / integration / host layers and turning findings into clear, actionable defects.
 
 ---
 
