@@ -20,7 +20,7 @@ My work focuses on validating payment flows end to end — from the terminal and
 - 🔌 Integration testing: **REST APIs, .NET, Java, Web Services**
 - 🧪 QA: **Functional, Regression, Integration, API, UAT, Exploratory Testing**
 - 🗄️ Database validation: **SQL Server, MySQL, PostgreSQL**
-- 🤖 Automation: **Selenium, Postman/Newman, Python**
+- 🤖 Automation: **Selenium, Postman/Newman, Python, Pytest**
 - 🌍 Based in **UAE** and open to QA / Payments / POS opportunities across UAE & GCC
 
 ---
@@ -31,11 +31,13 @@ My work focuses on validating payment flows end to end — from the terminal and
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </p>
@@ -51,8 +53,10 @@ A personal portfolio showcasing my QA, payments, POS/ECR and software testing ex
 
 **Repository:** [bijin1830.github.io](https://github.com/bijin1830/bijin1830.github.io)
 
-#### 🔜 API Testing Framework
-Coming next: a portfolio-grade API automation project with reusable tests, schema validation, reporting and CI.
+#### 🧪 [API Testing Framework](https://github.com/bijin1830/api-testing-framework)
+A Python + Pytest REST API automation project featuring reusable API clients, JSON Schema validation, positive/negative scenarios, parametrized tests, HTML reports and GitHub Actions CI.
+
+[![API Tests](https://github.com/bijin1830/api-testing-framework/actions/workflows/api-tests.yml/badge.svg)](https://github.com/bijin1830/api-testing-framework/actions/workflows/api-tests.yml)
 
 #### 🔜 Selenium Automation Framework
 Coming next: a Page Object Model based Selenium framework with pytest, screenshots, reports and GitHub Actions.
