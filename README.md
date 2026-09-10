@@ -40,27 +40,27 @@ My strongest experience is in **manual functional testing, regression testing, p
 
 **Domain expertise:** `Manual Testing` · `ISO 8583` · `EMV` · `POS` · `ECR` · `TMS` · `Payments QA` · `API Testing` · `UAT` · `Production Support`
 
-**Basic exposure / currently learning:** `Newman` · `Selenium` · `Beginner Python scripting`
+**Currently expanding automation skills:** `Newman` · `Selenium` · `Python scripting`
 
 ---
 
 ### 🚀 Featured Work
 
-#### 🧪 [Manual Testing Portfolio](https://github.com/bijin1830/manual-testing-portfolio)
-A complete **manual QA documentation showcase** with test planning, test scenarios, detailed test cases, RTM, regression checklist, UAT readiness checklist, defect examples and reusable QA templates.
-
 #### 💳 [Payment Testing Case Study](https://github.com/bijin1830/payment-testing-case-study)
 My payments-domain showcase focused on **manual payment testing**: POS/ECR transaction scenarios, purchase/void/refund/reversal, fallback, settlement, ISO 8583 validation, EMV flow, defect examples and a UAT checklist. All examples are synthetic and non-confidential.
 
-#### 🌐 [Professional Portfolio](https://bijin1830.github.io)
-A personal portfolio showcasing my QA, payments, POS/ECR and software testing experience.
-
-**Repository:** [bijin1830.github.io](https://github.com/bijin1830/bijin1830.github.io)
+#### 🧪 [Manual Testing Portfolio](https://github.com/bijin1830/manual-testing-portfolio)
+A complete **manual QA documentation showcase** with test planning, test scenarios, detailed test cases, RTM, regression checklist, UAT readiness checklist, defect examples and reusable QA templates.
 
 #### 🔌 [API Testing Showcase](https://github.com/bijin1830/api-testing-framework)
 A **Postman + Newman** based API testing project with positive/negative scenarios, response validation, environment variables and GitHub Actions execution.
 
 [![API Tests](https://github.com/bijin1830/api-testing-framework/actions/workflows/api-tests.yml/badge.svg)](https://github.com/bijin1830/api-testing-framework/actions/workflows/api-tests.yml)
+
+#### 🌐 [Professional Portfolio](https://bijin1830.github.io)
+A personal portfolio showcasing my QA, payments, POS/ECR and software testing experience.
+
+**Repository:** [bijin1830.github.io](https://github.com/bijin1830/bijin1830.github.io)
 
 ---
 
