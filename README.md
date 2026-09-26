@@ -38,7 +38,7 @@ My strongest experience is in **manual functional testing, regression testing, p
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </p>
 
-**Domain expertise:** `Manual Testing` · `ISO 8583` · `EMV` · `POS` · `ECR` · `TMS` · `Payments QA` · `API Testing` · `UAT` · `Production Support`
+**Domain expertise:** `Manual Testing` · `ISO 8583` · `EMV` · `POS` · `ECR` · `TMS` · `Payments QA` · `API Testing` · `SQL Validation` · `Traceability` · `UAT` · `Production Support`
 
 **Currently expanding automation skills:** `Newman` · `Selenium` · `Python scripting`
 
@@ -47,7 +47,7 @@ My strongest experience is in **manual functional testing, regression testing, p
 ### 🚀 Featured Work
 
 #### 💳 [Payment Testing Case Study](https://github.com/bijin1830/payment-testing-case-study)
-My payments-domain showcase focused on **manual payment testing**: POS/ECR transaction scenarios, purchase/void/refund/reversal, fallback, settlement, ISO 8583 validation, EMV flow, defect examples and a UAT checklist. All examples are synthetic and non-confidential.
+My payments-domain showcase focused on **manual payment testing and incident analysis**: POS/ECR transaction scenarios, purchase/void/refund/reversal, timeout recovery, fallback, settlement, ISO 8583 validation, EMV flow, SQL checks, traceability, defect analysis and UAT. All examples are synthetic and non-confidential.
 
 #### 🧪 [Manual Testing Portfolio](https://github.com/bijin1830/manual-testing-portfolio)
 A complete **manual QA documentation showcase** with test planning, test scenarios, detailed test cases, RTM, regression checklist, UAT readiness checklist, defect examples and reusable QA templates.
